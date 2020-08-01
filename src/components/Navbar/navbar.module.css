@@ -1,0 +1,28 @@
+.Navbar {
+    background-color:#013A6B;
+    opacity: 0.98;
+    position: fixed;
+    line-height: 2.5;
+}
+
+.Navbar .links {
+    text-transform: uppercase;
+    color: #ffb300;
+    font-weight: bold;
+    text-decoration: none;
+    margin: 1vh;
+    cursor: pointer;
+}
+
+.Navbar .links:hover {
+    color: #ffb300;
+}
+
+.Navbar .NavbarToggler{
+    background-image: url("data:image/svg+xml;charset=utf8,%3Csvg viewBox='0 00 45 30' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath stroke='rgb(255, 179, 0)' stroke-width='3' stroke-linecap='round' stroke-miterlimit='10' d='M4 8h24M4 16h24M4 24h24'/%3E%3C/svg%3E");
+    outline: none;
+}
+
+.Navbar .links > .active {
+    border-bottom: 1px solid #ffffff;
+}

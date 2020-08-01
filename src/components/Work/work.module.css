@@ -1,0 +1,34 @@
+.work{
+    background-image: url("../../assets/hinchada.jpg");
+    padding: 10vh;
+}
+
+.work h2{
+    text-transform: uppercase;
+    text-align: center;
+    font-weight: bold;
+}
+
+.work h2::after{
+    margin: 20px auto 0px;
+    content: "";
+    display: block;
+    height: 4px;
+    width: 10vw;
+    background-color: #013A6B;
+    margin-top: 2vh;
+    margin-bottom: 5vh;
+}
+
+.work p {
+    font-size: 1.3em;
+}
+.work .workImgs{
+    width: 100%;
+    height: 80%;
+    margin-top: 3vh;
+}
+.work button:hover {
+    color: #013A6B;
+    background-color: #ffffff;
+}

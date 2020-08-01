@@ -1,0 +1,27 @@
+.join {
+    background-color: #013A6B;
+    padding: 5vh;
+    color: white;
+}
+.join h2::after{
+    margin: 20px auto 0px;
+    content: "";
+    display: block;
+    height: 4px;
+    width: 10vw;
+    background-color: #ffb300;
+    margin-top: 2vh;
+    margin-bottom: 5vh;
+}
+.join h3{
+    margin-bottom: 5vh;
+}
+
+.join a {
+    color: #ffb300;
+    margin: 2vh;
+    font-size: 1em;
+}
+.join a:hover {
+    color: #ffffff;
+}

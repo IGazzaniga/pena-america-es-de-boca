@@ -1,0 +1,34 @@
+.footer{
+    position: relative;
+    bottom: 0;
+    width: 100%;
+    color: rgb(100, 100, 100);
+    background-color: rgb(256, 256, 256);
+    text-align: left;
+    padding-top: 4vh;
+}
+
+.whereTitle {
+    text-transform: uppercase;
+    font-weight: bold;
+}
+
+.iconList a{
+    display: inline;
+    align-items: left;
+    color: rgb(170, 170, 170);
+}
+
+.iconList a svg{
+    margin-left: 0.5vw;
+}
+
+.iconList a:hover{
+    color: #ffb300;
+}
+
+@media (min-width: 768px) {
+    .footer img{
+        max-width: 100%;
+    }
+}

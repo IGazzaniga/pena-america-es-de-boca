@@ -1,0 +1,32 @@
+.us{
+    background-color: #013A6B;
+    padding: 10vh;
+    color: #ffffff;
+}
+
+.us h2{
+    text-transform: uppercase;
+    text-align: center;
+    font-weight: bold;
+}
+
+.us h2::after{
+    margin: 20px auto 0px;
+    content: "";
+    display: block;
+    height: 4px;
+    width: 10vw;
+    background-color: #ffb300;
+    margin-top: 2vh;
+    margin-bottom: 5vh;
+}
+
+.us p {
+    font-size: 1.3em;
+    text-align: justify;
+    vertical-align: center;
+}
+
+.smoothContainer {
+    position: absolute;
+}

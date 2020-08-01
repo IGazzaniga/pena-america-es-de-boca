@@ -1,0 +1,25 @@
+.place {
+    padding: 3em;
+    background-image: url('../../assets/fondo-sede.jpg');
+    background-size: cover;
+    background-position: center;
+    color: white;
+}
+.place h2{
+    text-transform: uppercase;
+    text-align: center;
+    font-weight: bold;
+}
+.place h2::after{
+    margin: 20px auto 0px;
+    content: "";
+    display: block;
+    height: 4px;
+    width: 10vw;
+    background-color: #ffffff;
+    margin-top: 2vh;
+    margin-bottom: 5vh;
+}
+.place p{
+    font-size: 1.3em;
+}

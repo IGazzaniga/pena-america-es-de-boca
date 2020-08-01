@@ -1,0 +1,24 @@
+.card{
+    width: 325px;
+    display: inline-block !important;
+    margin: 15px;
+}
+.cardImage{
+    max-height: 100%;
+}
+
+.cardBody{
+    padding: 10px 15px;
+}
+
+.cardTitle{
+    font-size: 16px;
+    font-weight: bold;
+    height: 45px;
+    text-overflow: ellipsis;
+}
+
+.cardSubtitle{
+    font-size: 12px;
+    color: #7b85eb;
+}
