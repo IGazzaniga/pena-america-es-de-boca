@@ -58,7 +58,7 @@ class Work extends Component {
                       <Col lg="12">
                         <p>
                           En Argentina, los clubes cumplen un importantísimo rol social, y Boca, al ser el club más grande del país,
-                          no está excento de ello. Es por eso que, a través de sus peñas, filiales y consulados, 
+                          no está exento de ello. Es por eso que, a través de sus peñas, filiales y consulados, 
                           este rol se extiende a todo el territorio nacional e internacional. 
                         </p>
                         <p>

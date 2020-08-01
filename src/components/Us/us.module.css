@@ -20,11 +20,13 @@
     margin-top: 2vh;
     margin-bottom: 5vh;
 }
-
+.us .usText {
+    margin-top: auto;
+    margin-bottom: auto;
+}
 .us p {
     font-size: 1.3em;
     text-align: justify;
-    vertical-align: center;
 }
 
 .smoothContainer {

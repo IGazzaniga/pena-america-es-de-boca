@@ -17,25 +17,29 @@
     font-weight: bold;
     padding-top: 2em;
 }
-.banner button {
+.banner h2 {
+    margin-bottom: 2em;
+}
+.banner .button {
     position: relative;
     margin-top: 3vh;
     background-color: #013A6B;
     border: 0.1vw solid #013A6B;
-    padding: 0.5em 4em;
+    padding: 1em 4em;
+    border-radius: 10px;
 }
 
-.banner button:hover {
+.banner .button:hover {
     border: 0.1vw solid #ffb300;
     color: #ffb300;
     background-color: #013A6B;
 }
-.banner button:focus {
+.banner .button:focus {
     outline: none;
     background-color: #013A6B;
     box-shadow: none;
   }
-.banner button a {
+.banner .button a {
     text-decoration: none;
     color: white;
     width: 100%;

@@ -17,10 +17,10 @@ class Us extends Component {
                         src={require('../../assets/escudo-1.png')}
                         alt="escudo-peña"/>
                       </Col>
-                      <Col sm="12" lg="6">
+                      <Col className={classes.usText}sm="12" lg="6">
                         <p>
                           Luego de varios años sin la presencia de una peña oficial de Boca Juniors en la localidad de América ni en el partido de Rivadavia,
-                          a principios del año 2019, un grupo de hinchas comienza a organizarse para darle forma a la Peña que hoy en día se encuentra 
+                          a principios del año 2017, un grupo de hinchas comienza a organizarse para darle forma a la Peña que hoy en día se encuentra 
                           plenamente conformada.
                         </p>
                         <p>

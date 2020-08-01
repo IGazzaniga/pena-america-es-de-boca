@@ -21,8 +21,8 @@ class Footer extends Component {
                         <h6 className={classes.whereTitle}>Dónde encontrarnos</h6>
                         <hr></hr>
                         <div className={classes.iconList}>
-                            <a href="https://goo.gl/maps/aGAeY2p4oBQERqG5A"><p><FontAwesomeIcon icon={faMapMarkerAlt}/> Cte. Hillcoat 580, América, Bs.As, Argentina</p></a>
-                            <a href="mailto:penaamericaesdeboca@gmail.com"><p><FontAwesomeIcon icon={faEnvelope}/> penaamericaesdeboca@gmail.com</p></a>
+                            <a target="_blank" rel="noopener noreferrer" href="https://goo.gl/maps/aGAeY2p4oBQERqG5A"><p><FontAwesomeIcon icon={faMapMarkerAlt}/> Cte. Hillcoat 580, América, Bs.As, Argentina</p></a>
+                            <a target="_blank" rel="noopener noreferrer" href="mailto:americaesdeboca@gmail.com"><p><FontAwesomeIcon icon={faEnvelope}/> americaesdeboca@gmail.com</p></a>
                         </div>
                       </div> 
                   </Col>
@@ -31,8 +31,8 @@ class Footer extends Component {
                         <h6 className={classes.whereTitle}>Redes sociales</h6>
                         <hr></hr>
                         <div className={classes.iconList}>
-                            <a href="https://www.facebook.com/americaesdeboca"><FontAwesomeIcon size='2x'icon={faFacebook}/></a>
-                            <a href="https://www.instagram.com/penaamericaesdeboca/"><FontAwesomeIcon size='2x'icon={faInstagram}/></a>
+                            <a target="_blank" rel="noopener noreferrer" href="https://www.facebook.com/americaesdeboca"><FontAwesomeIcon size='2x'icon={faFacebook}/></a>
+                            <a target="_blank" rel="noopener noreferrer" href="https://www.instagram.com/penaamericaesdeboca/"><FontAwesomeIcon size='2x'icon={faInstagram}/></a>
                         </div>
                     </div> 
                   </Col>
