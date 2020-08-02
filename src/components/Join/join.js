@@ -14,8 +14,8 @@ class Join extends Component {
                       <Col sm="12">
                         <h3>Si querés formar parte de nuestra peña, contactanos por redes sociales, ¡y te contamos como hacer para formar parte!</h3>
                         <div className="rrss">
-                            <a target="_blank" rel="noopener noreferrer" href="https://www.facebook.com/americaesdeboca"><FontAwesomeIcon size='4x'icon={faFacebook}/></a>
-                            <a target="_blank" rel="noopener noreferrer" href="https://www.instagram.com/penaamericaesdeboca/"><FontAwesomeIcon size='4x'icon={faInstagram}/></a>
+                            <a target="_blank" rel="noopener noreferrer" href="https://www.facebook.com/americaesdeboca"><FontAwesomeIcon size='3x'icon={faFacebook}/></a>
+                            <a target="_blank" rel="noopener noreferrer" href="https://www.instagram.com/penaamericaesdeboca/"><FontAwesomeIcon size='3x'icon={faInstagram}/></a>
                         </div>
                       </Col>
                     </Row>
